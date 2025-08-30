@@ -14,13 +14,13 @@ This repository serves as a central hub for various Dockerized **Kafka producer*
 
 ## 📦 Available Producers
 
-| Producer | Description |
-| :--- | :--- |
-| **Twitter** | Gathers real-time tweets based on keywords, hashtags, or user mentions and publishes them to a Kafka topic. |
-| **Instagram** | Collects data from Instagram profiles, hashtags, or locations and sends it to Kafka. |
-| **Facebook** | Connects to the Facebook Graph API to stream data from public pages or groups. |
-| **YouTube** | Ingests comments, likes, or video metadata from YouTube channels and publishes them to Kafka. |
-| **Reddit** | Scrapes data from specific subreddits and posts it to a Kafka topic. |
+| Producer | Status | Description |
+| :--- | :--- | :--- |
+| **Twitter** | to-do | Gathers real-time tweets based on keywords, hashtags, or user mentions and publishes them to a Kafka topic. |
+| **Instagram** | to-do | Collects data from Instagram profiles, hashtags, or locations and sends it to Kafka. |
+| **Facebook** | to-do | Connects to the Facebook Graph API to stream data from public pages or groups. |
+| **YouTube** | to-do | Ingests comments, likes, or video metadata from YouTube channels and publishes them to Kafka. |
+| **Reddit** | to-do | Scrapes data from specific subreddits and posts it to a Kafka topic. |
 
 ---
 
